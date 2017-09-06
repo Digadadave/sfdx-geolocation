@@ -2,8 +2,9 @@
   "packageDirectories": [
     {
       "path": "force-app",
-      "default": true
-    }
+      "default": true 
+    },
+    { "path": "force-app/components/AccountComponent" }
   ],
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
